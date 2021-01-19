@@ -1,0 +1,1 @@
+const myDate = new Date('Jan 25, 2020 00:00:00');
